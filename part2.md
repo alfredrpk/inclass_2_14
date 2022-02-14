@@ -22,24 +22,6 @@ ALL fields must be green to proceed to the registration steps.
 
 ![](images/media/image1.png)
 
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
 ### Steps 
 
 1.  Check 2017 summer and winter session schedules to ensure you are
